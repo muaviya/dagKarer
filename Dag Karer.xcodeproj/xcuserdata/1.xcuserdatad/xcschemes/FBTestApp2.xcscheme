@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1BCE4D481C806A7F00DF6306"
-            BuildableName = "FBTestApp2.app"
-            BlueprintName = "FBTestApp2"
-            ReferencedContainer = "container:FBTestApp2.xcodeproj">
+            BuildableName = "Dag Karer.app"
+            BlueprintName = "Dag Karer"
+            ReferencedContainer = "container:Dag Karer.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1BCE4D481C806A7F00DF6306"
-            BuildableName = "FBTestApp2.app"
-            BlueprintName = "FBTestApp2"
-            ReferencedContainer = "container:FBTestApp2.xcodeproj">
+            BuildableName = "Dag Karer.app"
+            BlueprintName = "Dag Karer"
+            ReferencedContainer = "container:Dag Karer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
