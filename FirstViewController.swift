@@ -26,6 +26,8 @@ class FirstViewController: UIViewController {
         super.viewWillAppear(animated)
         navigationController?.setNavigationBarHidden(true, animated: true)
         UIApplication.sharedApplication().statusBarStyle = .LightContent
+        
+        print("what do you doing???")
     }
     
     override func viewDidAppear(animated: Bool) {
